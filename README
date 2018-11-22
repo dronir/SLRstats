@@ -1,0 +1,4 @@
+# SLR pulse reflection sampler
+
+This takes a reflected pulse simulation from `GRAYTR` and produces a distribution object
+which can be used to sample the probability distribution.
