@@ -8,7 +8,7 @@ with open('LICENSE') as f:
     license = f.read()
 
 setup(
-    name='SLR stats',
+    name='SLRstats',
     version='0.1.0',
     description='Compute SLR pulse statistics from ray-tracer result',
     long_description=readme,
